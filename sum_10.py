@@ -1,11 +1,11 @@
 def sum_of_10(number):
     """
-    Sum of 10 number starting 
+    Sum of 10 positive numbers starting 
     to count from the user number
     """
     if (number < 0): 
         print("The input number is less then 0")
-        return 
+        return
     
     sum_next = number
 
