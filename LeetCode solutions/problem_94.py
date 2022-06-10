@@ -20,7 +20,9 @@ class Solution:
             pointer = pointer.right
         
         return inorder_list
-        
+
+# Recursive Solution:
+
 #         def traverse_in_order(root):
 #             if not root:
 #                 return
