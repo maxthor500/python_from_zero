@@ -14,4 +14,3 @@ canvas.drawRect(5, 10, 20, 30)
 
 # Wait for the user to close the window.
 win.wait()
-
